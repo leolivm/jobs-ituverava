@@ -5,7 +5,7 @@
 
 ## :bookmark: About the project
 
-Simple node API made with GraphQL and Prisma to register users and jobs in the city [GraphQL](https://graphql.org/), [Type-GraphQL](https://typegraphql.com/) and [Prisma ORM](https://www.prisma.io/)
+Simple node API made with [GraphQL](https://graphql.org/), [Type-GraphQL](https://typegraphql.com/) and [Prisma ORM](https://www.prisma.io/) to register users and jobs in the city
 
 ## � Getting started
 
