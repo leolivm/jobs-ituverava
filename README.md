@@ -17,7 +17,7 @@ Simple node API made with [GraphQL](https://graphql.org/), [Type-GraphQL](https:
 $ git clone https://github.com/leolivm/jobs-ituverava.git && cd jobs-ituverava
 ```
 
-- Create an `.env` file in the root of the `api` folder with the contents of the `.env.example` file
+- Create an `.env` file in the root of the `api` folder with the content of the `.env.example` file
 
 ```bash
 # Run the postgres container
